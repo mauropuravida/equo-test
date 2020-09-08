@@ -1,0 +1,3 @@
+[submodule "LittleProxy-parent"]
+	path = LittleProxy-parent
+	url = https://github.com/ganskef/LittleProxy-parent
