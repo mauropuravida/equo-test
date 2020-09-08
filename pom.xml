@@ -17,6 +17,10 @@
 			<url>s3://equo-central</url>
 		</repository>
 	</distributionManagement>
+	
+	<modules>
+		<module>LittleProxy-parent</module>
+	</modules>
 	<build>
 		<extensions>
 			<extension>
